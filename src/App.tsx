@@ -1,7 +1,7 @@
 // import { MuiButton } from './components/MuiButton.js';
 // import { MuiTypography } from './components/MuiTypography.jsx';
 import './App.css';
-import { MuiAutocomplete } from './components/MuiAutocomplete';
+// import { MuiAutocomplete } from './components/MuiAutocomplete';
 import { MuiLayout } from './components/MuiLayout';
 // import { MuiRating } from './components/MuiRating';
 // import { MuiCheckbox } from './components/MuiCheckbox';
