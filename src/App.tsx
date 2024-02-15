@@ -1,8 +1,9 @@
 // import { MuiButton } from './components/MuiButton.js';
 // import { MuiTypography } from './components/MuiTypography.jsx';
 import './App.css';
+import { MuiCard } from './components/MuiCard';
 // import { MuiAutocomplete } from './components/MuiAutocomplete';
-import { MuiLayout } from './components/MuiLayout';
+// import { MuiLayout } from './components/MuiLayout';
 // import { MuiRating } from './components/MuiRating';
 // import { MuiCheckbox } from './components/MuiCheckbox';
 // import { MuiRadioButton } from './components/MuiRadioButton';
@@ -22,7 +23,8 @@ function App() {
       {/* <MuiSwitch /> */}
       {/* <MuiRating /> */}
       {/* <MuiAutocomplete /> */}
-      <MuiLayout />
+      {/* <MuiLayout /> */}
+      <MuiCard />
     </div>
   );
 }
