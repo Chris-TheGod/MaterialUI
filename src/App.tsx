@@ -1,9 +1,10 @@
 // import { MuiButton } from './components/MuiButton.js';
 // import { MuiTypography } from './components/MuiTypography.jsx';
 import './App.css';
-import { MuiAccordion } from './components/MuiAccordion';
-import { MuiCard } from './components/MuiCard';
-import { MuiImageList } from './components/MuiImageList';
+// import { MuiAccordion } from './components/MuiAccordion';
+// import { MuiCard } from './components/MuiCard';
+// import { MuiImageList } from './components/MuiImageList';
+import { MuiNavbar } from './components/MuiNavbar';
 // import { MuiAutocomplete } from './components/MuiAutocomplete';
 // import { MuiLayout } from './components/MuiLayout';
 // import { MuiRating } from './components/MuiRating';
@@ -28,7 +29,8 @@ function App() {
       {/* <MuiLayout /> */}
       {/* <MuiCard /> */}
       {/* <MuiAccordion /> */}
-      <MuiImageList />
+      {/* <MuiImageList /> */}
+      <MuiNavbar />
     </div>
   );
 }
