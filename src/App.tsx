@@ -1,6 +1,7 @@
 // import { MuiButton } from './components/MuiButton.js';
 // import { MuiTypography } from './components/MuiTypography.jsx';
 import './App.css';
+import { MuiBottomNav } from './components/MuiBottomNav';
 // import { MuiDrawer } from './components/MuiDrawer';
 // import { MuiBreadcrums } from './components/MuiBreadcrums';
 // import { MuiLink } from './components/MuiLink';
@@ -38,7 +39,8 @@ function App() {
       {/* <MuiLink /> */}
       {/* <MuiBreadcrums /> */}
       {/* <MuiDrawer /> */}
-      <MuiSpeedDial />
+      {/* <MuiSpeedDial /> */}
+      <MuiBottomNav />
     </div>
   );
 }
